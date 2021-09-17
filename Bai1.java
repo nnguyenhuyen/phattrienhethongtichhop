@@ -1,4 +1,4 @@
-import java.util.*;
+
 import java.util.Scanner;
 public class Bai1 {
     public static void main(String[] args) {
@@ -11,8 +11,6 @@ public class Bai1 {
    
         System.out.println("chuoi duoc in hoa " );
         System.out.println(chuoi.toUpperCase());
-            
-                 
-         
+   
     }
 }
